@@ -1,0 +1,22 @@
+{
+    "wd":"",
+    "MergeControlPeaklistFile":"mgcpeaklist.rData",
+    "MergeControlPeaklist2File":"mgcpeaklist2.rData",
+    "ControlFolder":"",
+    "ControlFileExtension":"mzXML",
+    "rulesfile":"",
+    "ControlThreshold":"5e1",
+    "method":"centWave",
+    "ppm":"20",
+    "DeltaMZ":"0.01",
+    "lowPeakwidth":"9",
+    "highPeakwidth":"20",
+    "rtCheck":"30",
+    "ControlNoise":"1e1",
+    "snthresh":"5",
+    "perfwhm":"1",
+    "consecMissedLimit":"1",
+    "integrate":"2",
+    "looseCtrRemove":"TRUE",
+    "polarity":"positive"
+}
