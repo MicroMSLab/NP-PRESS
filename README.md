@@ -4,7 +4,7 @@ This repository consists of two parts, FUNEL and simRank. We offer an online ser
 
 ## FUNEL
 
-FUNEL is written in R and is used to identify and annotate features from $MS^2$ data, and search compounds in a database. or more details, you can refer to the [README file](./FUNEL/README.md) in the project.
+FUNEL is written in R and is used to identify and annotate features from $MS^2$ data, and search compounds in a database. For more details, you can refer to the [README file](./FUNEL/README.md) in the project.
 
 ## simRank
 
